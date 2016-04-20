@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YourSuperfoods]]></title>
+        <description><![CDATA[YourSuperfoods]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 20:11:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca0e1e3-2a38-4eb9-8345-25f23502dca2.jpg">]]></description>
+            <link>undefinedyour-superfoods-mixes/index.html</link>
+            <guid isPermaLink="false">309a4195-f78d-41cd-89c0-73ab9b5cece0</guid>
+            <pubDate>Wed, 20 Apr 2016 20:11:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
